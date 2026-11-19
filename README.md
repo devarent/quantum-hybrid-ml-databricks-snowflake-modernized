@@ -13,7 +13,7 @@
 
 > **A Next-Generation Quantum-Classical Hybrid Architecture** integrating **Databricks Zerobus Ingest SDK**, **Databricks Terraform Security Reference Architecture (SRA)**, **NVIDIA CUDA-Q**, **NVIDIA TensorRT-LLM**, **PennyLane**, **Ingenii Quantum Hybrid Networks**, **IBM Quantum Runtime**, **D-Wave Advantage Annealer**, **Shor's Quantum Factorization Algorithm**, **Laravel 11 API Backend**, and **Angular 18 Web Dashboard**.
 
-Developed & Maintained by **Arya Fatthurahman** ([@aryafatthurahman4-collab](https://github.com/aryafatthurahman4-collab)) • *Artificial Intelligence Engineering*
+Developed & Maintained by **Arya Fatthurahman** ([@devarent](https://github.com/devarent)) • *Artificial Intelligence Engineering*
 
 ---
 
@@ -73,7 +73,7 @@ Developed & Maintained by **Arya Fatthurahman** ([@aryafatthurahman4-collab](htt
 
 ```bash
 # 1. Clone Repository
-git clone https://github.com/aryafatthurahman4-collab/quantum-hybrid-resornizations-databricks-snowflake-modernized.git
+git clone https://github.com/devarent/quantum-hybrid-resornizations-databricks-snowflake-modernized.git
 cd quantum-hybrid-resornizations-databricks-snowflake-modernized
 
 # 2. Install Python Dependencies
@@ -104,7 +104,7 @@ Distributed under the Apache License 2.0 and MIT License. See `LICENSE` for deta
 
 ## Project Governance
 
-[![CI](https://github.com/aryafatthurahman4-collab/quantum-hybrid-resornizations-databricks-snowflake/actions/workflows/ci.yml/badge.svg)](https://github.com/aryafatthurahman4-collab/quantum-hybrid-resornizations-databricks-snowflake/actions/workflows/ci.yml)
+[![CI](https://github.com/devarent/quantum-hybrid-resornizations-databricks-snowflake/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/quantum-hybrid-resornizations-databricks-snowflake/actions/workflows/ci.yml)
 
 [Contributing](CONTRIBUTING.md) | [Security Policy](SECURITY.md) | [Code of Conduct](CODE_OF_CONDUCT.md)
 
