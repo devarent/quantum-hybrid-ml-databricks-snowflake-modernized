@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# quantum-hybrid-ml-databricks-snowflake-modernized
+
+<sub>Reference mirror - hybrid quantum/classical ML dengan integrasi Databricks dan Snowflake.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | quantum-hybrid-ml-databricks-snowflake-modernized |
+| Primary language | Jupyter Notebook |
+| Topics | databricks, jupyter-notebook, machine-learning, python, quantum-computing, reference, snowflake |
+| License | MIT |
+| Branch | main |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+quantum-hybrid-ml-databricks-snowflake-modernized is a hands-on repository focused on: Reference mirror - hybrid quantum/classical ML dengan integrasi Databricks dan Snowflake.. Primary language: Jupyter Notebook. Topics: databricks, jupyter-notebook, machine-learning, python, quantum-computing, reference, snowflake. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
