@@ -36,7 +36,7 @@ quantum-hybrid-ml-databricks-snowflake-modernized is a hands-on repository focus
 <!-- dbx-style-kit -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/quantum-hybrid-resornizations-databricks-snowflake-modernized-1f6feb?style=for-the-badge" alt="quantum-hybrid-resornizations-databricks-snowflake-modernized" />
+<img src="https://img.shields.io/badge/quantum-hybrid-ml-databricks-snowflake-modernized-1f6feb?style=for-the-badge" alt="quantum-hybrid-ml-databricks-snowflake-modernized" />
 <img src="https://img.shields.io/badge/LANG%20Jupyter%20Notebook-3178c6?style=for-the-badge" alt="LANG Jupyter Notebook" />
 <img src="https://img.shields.io/badge/STARS%200-eab308?style=for-the-badge" alt="STARS 0" />
 <img src="https://img.shields.io/badge/LICENSE%20MIT-22c55e?style=for-the-badge" alt="LICENSE MIT" />
@@ -130,8 +130,8 @@ Developed & Maintained by **Arya Fatthurahman** ([@devarent](https://github.com/
 
 ```bash
 # 1. Clone Repository
-git clone https://github.com/devarent/quantum-hybrid-resornizations-databricks-snowflake-modernized.git
-cd quantum-hybrid-resornizations-databricks-snowflake-modernized
+git clone https://github.com/devarent/quantum-hybrid-ml-databricks-snowflake-modernized.git
+cd quantum-hybrid-ml-databricks-snowflake-modernized
 
 # 2. Install Python Dependencies
 pip install -r requirements.txt
@@ -161,7 +161,7 @@ Distributed under the Apache License 2.0 and MIT License. See `LICENSE` for deta
 
 ## Project Governance
 
-[![CI](https://github.com/devarent/quantum-hybrid-resornizations-databricks-snowflake/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/quantum-hybrid-resornizations-databricks-snowflake/actions/workflows/ci.yml)
+[![CI](https://github.com/devarent/quantum-hybrid-ml-databricks-snowflake/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/quantum-hybrid-ml-databricks-snowflake/actions/workflows/ci.yml)
 
 [Contributing](CONTRIBUTING.md) | [Security Policy](SECURITY.md) | [Code of Conduct](CODE_OF_CONDUCT.md)
 
